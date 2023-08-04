@@ -1,0 +1,14 @@
+{
+  "name": "coin-change",
+  "version": "1.0.0",
+  "description": "A CS-interview style problem around ways to make change with coins",
+  "main": "coins.js",
+  "scripts": {
+    "test": "mocha --file coins.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
