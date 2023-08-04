@@ -12,3 +12,11 @@ Input: sum = 10, coins[] = {2, 5, 3, 6}
 Output: 5
 Explanation: There are five solutions: 
 {2,2,2,2,2}, {2,2,3,3}, {2,2,6}, {2,3,5} and {5,5}.
+
+# Running this
+
+Use `npm test`.  (Feel free to fork and add your own assertions!)
+
+# Credits
+
+Adapted from this article:  https://www.geeksforgeeks.org/coin-change-dp-7/
